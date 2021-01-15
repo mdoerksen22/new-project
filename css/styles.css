@@ -1,0 +1,27 @@
+body {
+	line-height: 1.5;
+	font-size: 100%;
+}
+
+main {
+	width: 1200px;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+}
+
+h1 {
+	width: 1200px;
+}
+
+main p {
+	width: 416px;
+	background-color: #999999;
+	padding: 30px;
+	border: 2px solid #333333;
+	color: #ffffff;
+}
+
+/*80 + 4 + 100 = 184 - 600 = 416*/
